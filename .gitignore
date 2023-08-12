@@ -1,0 +1,11 @@
+*.log
+*.pot
+*.pyc
+__pycache__
+.bak
+local_settings.py
+db.sqlite3
+cert.crt
+cert.key
+.idea
+media/
